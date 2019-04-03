@@ -1,0 +1,12 @@
+.project
+.classpath
+.gradle/
+.settings/
+classes/
+target/
+build/
+out/
+log4j-applicationErrors.log
+log4j-application.log
+.idea/
+
